@@ -1,2 +1,2 @@
 # calculator
-Simple web-based calculator 
+Simple web-based calculator (HTML/CSS/JS)
